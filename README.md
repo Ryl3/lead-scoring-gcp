@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.54-FF4B4B)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # Lead Scoring — Predictive System for SMBs
 
 Predictive lead scoring system combining rule-based heuristics with ML models
@@ -142,14 +148,7 @@ gcloud scheduler jobs create http lead-scoring-weekly \
   --time-zone="America/New_York"
 ```
 
-### Cost Estimate (Monthly)
 
-| Service | Free Tier | Your Usage | Est. Cost |
-|---------|-----------|------------|-------------|
-| Cloud Run | 2M requests | ~5K requests | **$0** |
-| Cloud Storage | 5GB | ~100MB | **$0** |
-| Cloud Scheduler | 3 jobs | 1 job | **$0** |
-| **Total** | | | **~$0/month** |
 
 ## Model Details
 
