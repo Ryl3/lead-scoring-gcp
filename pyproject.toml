@@ -1,0 +1,30 @@
+[project]
+name = "lead-scoring"
+version = "0.1.0"
+description = "Lead scoring system for SMB"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.0",
+    "numpy>=1.25",
+    "scikit-learn>=1.3",
+    "jupyter>=1.0",
+    "ipykernel>=6.0",
+    "matplotlib>=3.7",
+    "seaborn>=0.12",
+    "joblib>=1.3",
+    "openpyxl>=3.1",
+    "nbformat>=5.9",
+    "shap>=0.49.1",
+    "fastapi>=0.115.0",
+    "uvicorn>=0.32.0",
+    "streamlit>=1.40.0",
+    "plotly>=5.24.0",
+    "python-multipart>=0.0.17",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "jupyterlab>=4.0",
+]

@@ -1,0 +1,59 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.pytest_cache/
+
+# Virtual environments
+.venv
+venv/
+env/
+ENV/
+
+# Environment variables / Secrets
+.env
+.env.*
+*.env
+*.key
+*.pem
+service-account*.json
+*credentials*.json
+secrets/
+secrets.yaml
+secrets.yml
+
+# Data (raw data should not be in git)
+data/raw/
+*.csv
+!data/processed/feature_matrix.csv
+
+# Large model files (optional - comment out if you want to track small models)
+# models/*.pkl
+# models/*.joblib
+
+# Outputs (generated artifacts)
+outputs/figures/
+outputs/reports/
+outputs/scores/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
